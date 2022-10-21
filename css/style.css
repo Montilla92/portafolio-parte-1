@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+.negro {
+    height: 3rem;
+    background-color: black;
+}
+
+.purpura {
+    height: 15rem;
+    background-color: blueviolet;
+}
+
+.caja1{
+    
+    height: 500px;
+    background-color: wheat;
+    float: left;
+}
+
+.prueba{
+    padding: 0 ;
+}
+.caja2{
+    
+    height: 50px;
+    background-color: black;
+    padding: 10px;
+
+    float: left;
+}
+.caja3{
+    
+    height: 450px;
+    background-color: purple;
+    padding: 10px;
+    
+    float: left;
+}
+.caja4 {
+    height: 450px;
+    background-color: purple;
+    padding: 10px;
+    
+    float: left;
+}
+
+.caja5 {
+    height: 450px;
+    background-color: wheat;
+    align-items: flex-end;
+}
+
+.redes{
+    width: 100%;
+}
+
+.gris{
+    height: 3rem;
+    background-color: gray;
+}
+
+.casa {
+    float: right;
+    
+}
